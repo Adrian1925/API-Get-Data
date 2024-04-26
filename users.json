@@ -1,0 +1,36 @@
+{
+    "user1": {
+      "id":1,
+      "nama":"Adrian",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"0811237983"
+    },
+
+    "user2": {
+      "id":2,
+      "nama":"Yoga",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"08171347237"
+    },
+
+    "user3": {
+      "id":3,
+      "nama":"Chrisarianto",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"08134619372"
+    },
+
+    "user4": {
+      "id":4,
+      "nama":"Sujiman",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"08123619238"
+    },
+
+    "user5": {
+      "id":5,
+      "nama":"Sujatmiko",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"081813276719"
+    }
+  }
